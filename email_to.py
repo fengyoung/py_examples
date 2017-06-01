@@ -1,4 +1,10 @@
-#! /usr/bin/python
+# -*- coding: utf-8 -*-
+# file: email_to.py
+# 
+# Example of send email in python 
+# 
+# 2017-06-01 by fengyoung(fengyoung1982@sina.com) 
+# 
 
 import sys
 import time
